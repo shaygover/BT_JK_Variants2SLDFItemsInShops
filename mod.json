@@ -5,13 +5,13 @@
     "DependsOn": ["SLDFItemsInShops", "JK_VariantsCampaign", "JK_VariantsDLC", "JK_VariantsStarLeague"],
 
     "Version": "0.1.0",
-    "Description": "Adds Urban Warfare items to SLDFItemsInShops",
+    "Description": "Adds JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague to SLDFItemsInShops",
     "Author": "tharbad08",
-    "Website": "",
+    "Website": "https://github.com/shaygover/BT_JK_Variants2SLDFItemsInShops",
     "Contact": "Use github Issues",
 
     "Manifest": [
         { "Type": "ItemCollectionDef", "Path": "items", "ShouldAppendText": true },
-        { "Type": "UpgradeDef", "Path": "upgrade", "ShouldMergeJSON": true }
+        { "Type": "UpgradeDef", "Path": "upgrades", "ShouldMergeJSON": true }
     ]
 } 

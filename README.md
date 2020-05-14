@@ -1,3 +1,5 @@
+Adds JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague to SLDFItemsInShops
+
 ## Folders
 - Complete lists: Includes lists of item in JK mods. Collected manually from the shopdef files.
 - JK_Items: Items from JK mods. Including all the shopdef. Hopefully I'll have time to convert those to the new itemCollection format.
