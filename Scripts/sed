@@ -1,1 +1,2 @@
-sed -e 's/$/,MechPart,1,1/' -i light_mechparts 
+sed -e 's/$/,MechPart,1,1/' -i lvl5_mechparts 
+sed -e 's/$/,Mech,1,1/' -i lvl5_mechs
