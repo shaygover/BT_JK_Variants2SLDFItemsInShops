@@ -7,6 +7,6 @@ Adds JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague to SLDFItemsI
 - item: My itemCollection files.
 
 ## Requirements
-- https://github.com/shaygover/BTshopsupgrade
+- SLDFItemsInShops v0.5.0 or later: https://github.com/shaygover/BTshopsupgrade
 - JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: https://www.nexusmods.com/battletech/mods/18
 - Modtek v0.7.7.2 or later: https://github.com/shaygover/BTshopsupgrade.
