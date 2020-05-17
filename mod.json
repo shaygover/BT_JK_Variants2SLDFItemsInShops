@@ -1,5 +1,5 @@
 {
-    "Name": "SLDFItemsInShops4UW",
+    "Name": "JK_Variants2SLDFItemsInShops",
     "Enabled": true,
     
     "DependsOn": ["SLDFItemsInShops", "JK_VariantsCampaign", "JK_VariantsDLC", "JK_VariantsStarLeague"],
