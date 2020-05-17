@@ -1,0 +1,1 @@
+sed -e 's/$/,MechPart,1,1/' -i light_mechparts 
