@@ -4,7 +4,7 @@
     
     "DependsOn": ["SLDFItemsInShops", "JK_VariantsCampaign", "JK_VariantsDLC", "JK_VariantsStarLeague"],
 
-    "Version": "0.1.0",
+    "Version": "0.1.1",
     "Description": "Adds JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague items to SLDFItemsInShops",
     "Author": "tharbad08",
     "Website": "https://github.com/shaygover/BT_JK_Variants2SLDFItemsInShops",
